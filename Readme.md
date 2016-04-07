@@ -19,7 +19,7 @@ Good ol' npm install, for those new to javascript development
 
     This is done by either
     ```javascript
-      require('looptar');
+      const Looptar = require('looptar');
     ```
 
     or in the ES6 way
