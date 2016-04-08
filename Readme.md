@@ -3,6 +3,8 @@ is supposed to go inside babel-plugin-looptar which can do this optionally for y
 but if you are one of them who don't like to use transpilers you can use this library
 naked.
 
+For usage with babel check out https://github.com/darkyen/babel-plugin-looptar/
+
 #Whats the purpose of this ?
 Well this will save you a frozen tab and also will gracefully break your code
 in debug mode by throwing a noble error, just like stackoverflows.
